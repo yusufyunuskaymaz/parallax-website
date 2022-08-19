@@ -113,3 +113,27 @@ body{
     /* color: #dddddd; */
 
 }
+
+.section-4{
+    background-image: url(./img/bg4.jpg);
+    height: 40vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.7;
+}
+
+.parag-border{
+    font-size: 3rem;
+    color: white;
+    background-color: black;
+    padding: 1rem;
+    border-radius: 15px 0;
+    letter-spacing: 0.5rem;
+    outline: 0.4rem inset purple;
+    outline-offset: 0.2rem;
+}
