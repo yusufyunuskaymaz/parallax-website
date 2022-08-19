@@ -47,3 +47,54 @@ body{
     margin: 20px 0;
 
 }
+
+.section-2{
+    background-image: url(./img/bg1.jpg);
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.7;
+}
+
+.aws{
+    background-color: #282e34;
+    color: #ddd;
+    text-align: center;
+    padding: 3rem 5rem;
+    line-height: 1.8rem;
+}
+
+.aws h2{
+    font-size: 1.5rem;
+    margin: 20px 0;
+    /* color: #dddddd; */
+
+}
+
+.section-3{
+    background-image: url(./img/bg3.jpg);
+    height: 60vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.7;
+}
+
+.parag-border{
+    font-size: 3rem;
+    color: white;
+    background-color: black;
+    padding: 1rem;
+    border-radius: 15px 0;
+    letter-spacing: 0.5rem;
+    outline: 0.4rem inset purple;
+    outline-offset: 0.2rem;
+}
