@@ -98,3 +98,18 @@ body{
     outline: 0.4rem inset purple;
     outline-offset: 0.2rem;
 }
+
+.data{
+    background-color: rgb(241, 241, 241);
+    color: #666;
+    text-align: center;
+    padding: 3rem 5rem;
+    line-height: 1.8rem;
+}
+
+.data h2{
+    font-size: 1.5rem;
+    margin: 20px 0;
+    /* color: #dddddd; */
+
+}
